@@ -83,7 +83,7 @@ The game needs to have the basic structure for it to function. The game will nee
 You need to name your game. The default is `whack-a-mole`, but you can choose another name depending on the theme that you want to set for the game. Some variations could be `whack-a-virus`, `catch-a-cat`, or something else. Surround your title in `h1` tags. Besides naming your game, you will also need to assign an `id` attribute to the `h1` tag and set the `id` attribute's value to a string of `"title"` for the test to pass. It should look something like this:
 
 ```html
-<h1 id="title"> My game!! </h1>
+<h1 id="title"> catch-a-cat!! </h1>
 ```
 
 #### 2. Add nine holes and moles to the grid in `index.html`
